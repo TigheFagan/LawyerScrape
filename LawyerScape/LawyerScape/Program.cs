@@ -20,8 +20,8 @@ namespace LawyerScape
             List<Lawyer> lawyers = new List<Lawyer>();
 
             bool isMore = true;
-            int linksPerPage = 0;
-            int loop = 20;
+            int linksPerPage = 20;
+            int loop = 0;
             do
             {
 
